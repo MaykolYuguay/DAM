@@ -3,4 +3,4 @@ Este repositorio se usará para el módulo de Entornos de Dasarrollo en la prác
 
 | NOMBRE | GITHUB |
 | Compañero 1 | [enlace a github 1](https://github.com/Alobalfer) |
-| Compañero 1 | [enlace a github 2](https://github.com/GuilleDAM2526) |
+| Compañero 2 | [enlace a github 2](https://github.com/GuilleDAM2526) |
