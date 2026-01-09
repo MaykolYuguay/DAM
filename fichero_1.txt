@@ -1,1 +1,3 @@
+Corrijo el conflicto poniendo las palabras en diferentes líneas
 Hola
+Adios
